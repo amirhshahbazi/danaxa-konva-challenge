@@ -46,7 +46,6 @@ export default {
       }
 
       if (this.clickCount === 2) {
-        console.log('col', this.color)
         this.cubes.push({...this.events, color: this.color})
       }
 

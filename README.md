@@ -6,6 +6,8 @@ The project is also deployed on Vercel: https://danaxa-konva-challenge.vercel.ap
 ## Introduction
 
 This was my first time using [Konva.js](https://konvajs.org/). The challenge was to use it with Vue.js (vue-konva library) to create a simple application for drawing cubes out of 2D shapes.
+The program must receive three clicks to create a cube. The first two clicks determine the front face of the cube, while the third click determines its depth.
+
 
 My approach was:
 1. Create a separated component for cubes (called VCube).
@@ -17,6 +19,7 @@ My approach was:
 
 No other libraries were used.
 
+__________________________________
 
 ### To run the project:
 ```
