@@ -18,7 +18,7 @@ My approach was:
 No other libraries were used.
 
 
-###To run the project:
+### To run the project:
 ```
 npm install && npm run serve
 ```
