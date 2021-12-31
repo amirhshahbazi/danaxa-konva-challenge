@@ -1,8 +1,8 @@
 const getTopFaceVertices = (config, width) => {
     return [
-        config['click3'].x, // done
-        config['click3'].y, // done
-        config['click3'].x - width, // done
+        config['click3'].x,
+        config['click3'].y,
+        config['click3'].x - width,
         config['click3'].y,
         config['click1'].x,
         config['click1'].y,
